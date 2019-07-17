@@ -1,0 +1,40 @@
+[ERROR 2018-08-24 09:55:37]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-24 09:59:43]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-24 10:00:11]Response time > expected_time, expected_time is 400, time is 482.745
+[ERROR 2018-08-24 10:00:12]Response body != expected_msg, expected_msg is {"error":"继续操作前请注册或者登录9."}, body is {"error":"继续操作前请注册或者登录."}
+[ERROR 2018-08-25 21:49:38]Response time > expected_time, expected_time is 100, time is 671.038
+[ERROR 2018-08-25 21:49:41]statusCode error, expected_code is 208, statusCode is 200 
+[ERROR 2019-05-07 16:27:15]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 16:28:20]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 16:30:44]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-07 17:04:57]邮件发送失败，请检查邮件配置
+[ERROR 2019-06-03 16:33:25]邮件发送失败，请检查邮件配置
+[ERROR 2019-07-08 17:08:59]邮件发送失败，请检查邮件配置
+[ERROR 2019-07-08 17:08:59]发送邮件失败，请检查邮件配置
+[ERROR 2019-07-08 17:12:14]邮件发送失败，请检查邮件配置
+[ERROR 2019-07-08 17:15:37]邮件发送失败，请检查邮件配置
+[ERROR 2019-07-09 17:24:52]Response body msg != expected_msg, expected_msg is wujiali, body_msg is wujiali
+[ERROR 2019-07-09 17:26:40]Response body msg != expected_msg, expected_msg is wujiali, body_msg is wujiali
+[ERROR 2019-07-09 17:28:28]Response time > expected_time, expected_time is 100, time is 994641
+[ERROR 2019-07-09 17:29:37]Response time > expected_time, expected_time is 1000, time is 65075
+[ERROR 2019-07-09 17:41:42]Response time > expected_time, expected_time is 100, time is 278743
+[ERROR 2019-07-15 17:20:28]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 17:22:43]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 17:25:01]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 17:25:13]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 17:26:15]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 17:34:35]statusCode error, expected_code is 200, statusCode is 404 
+[ERROR 2019-07-15 17:35:45]statusCode error, expected_code is 200, statusCode is 401 
+[ERROR 2019-07-15 17:37:12]statusCode error, expected_code is 200, statusCode is 401 
+[ERROR 2019-07-15 17:38:37]Response body have no this key data
+[ERROR 2019-07-15 17:39:05]Response body have no this key data
+[ERROR 2019-07-15 17:40:47]Response body have no this key data
+[ERROR 2019-07-15 18:04:08]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 18:05:22]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 18:07:20]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 18:08:14]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2019-07-15 18:16:15]statusCode error, expected_code is 200, statusCode is 500 
+[ERROR 2019-07-15 19:06:37]执行用例失败，请检查环境配置
+[ERROR 2019-07-16 10:06:50]执行用例失败，请检查环境配置
+[ERROR 2019-07-16 10:48:37]statusCode error, expected_code is 200, statusCode is 401 
+[ERROR 2019-07-16 11:04:12]statusCode error, expected_code is 200, statusCode is 400 

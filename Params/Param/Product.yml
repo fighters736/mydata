@@ -1,0 +1,40 @@
+---
+Product:
+  dec: "get product"
+  parameters:
+    -
+      url: /v1/product
+      shop_id: 7091290163
+
+Details:
+  dec: "get product details"
+  parameters:
+    -
+      url: /v1/product
+      params: 1870200963123
+
+Update:
+  dec: "update product info"
+  parameters:
+    -
+      url: /v1/product
+      raw: {
+      "opponent_url": "https://www.xxx.com",
+      "product_id": 1988266065971,
+      "remark": "",
+      "suplier_price": 22,
+      "suplier_url": "https://www.ss.com",
+      "title_cn": "中文标题",
+      "title_en": "英文标题",
+      "packing": "sssssss",
+      "quality": "eeeeee",
+      "category": "oooo",
+      "purchase_director": "osido",
+      "purchase_price": 3.0,
+      "declare_price": 2.0,
+      "is_electricity": -1,
+      "is_liquid": 1
+  }
+      header: {
+        "Content-Type": "application/json"
+      }
