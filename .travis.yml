@@ -1,0 +1,8 @@
+language: python
+node_js:
+        - '3.6.0'
+install:
+        - pip install pytest=='3.6.0'
+        - pip install requests
+        - pip install pytest-allure-adaptor
+        - pip install pyyaml
